@@ -1,0 +1,15 @@
+{
+  "name": "product_data_gen",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Kevin C",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
